@@ -1,0 +1,47 @@
+{
+	"profiles": {
+		"API": {
+			"commandName": "Project",
+			"launchBrowser": true,
+			"launchUrl": "swagger",
+			"environmentVariables": {
+				"ASPNETCORE_ENVIRONMENT": "Development",
+				"MERCADO_PAGO_BASE_URL": "https://api.mercadopago.com",
+				"MERCADO_PAGO_CRIAR_QR_ORDER_PATH": "/instore/orders/qr/seller/collectors/138070335/pos/SUC001POS001/qrs",
+				"MERCADO_PAGO_CONSULTAR_QR_ORDER_PATH": "/merchant_orders/{0}",
+				"MERCADO_PAGO_AUTHORIZATION": "Bearer TEST-4232857146985951-071622-d45bfa46f542e8096b143477cbc1d167-138070335",
+				"MERCADO_PAGO_SPONSOR_ID": "149081155",
+				"WEBHOOK_ENDPOINT": "https://webhook.site/5ee91173-c184-4084-ac8a-66d527948ad5"
+
+			},
+			"dotnetRunMessages": true,
+			"applicationUrl": "http://localhost:6002"
+		},
+		"IIS Express": {
+			"commandName": "IISExpress",
+			"launchBrowser": true,
+			"launchUrl": "swagger",
+			"environmentVariables": {
+				"ASPNETCORE_ENVIRONMENT": "Development"
+			}
+		},
+		"Docker": {
+			"commandName": "Docker",
+			"launchBrowser": true,
+			"launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/swagger",
+			"environmentVariables": {
+				"ASPNETCORE_URLS": "http://+:80"
+			},
+			"publishAllPorts": true
+		}
+	},
+	"$schema": "https://json.schemastore.org/launchsettings.json",
+	"iisSettings": {
+		"windowsAuthentication": false,
+		"anonymousAuthentication": true,
+		"iisExpress": {
+			"applicationUrl": "http://localhost:6002",
+			"sslPort": 0
+		}
+	}
+}
