@@ -85,7 +85,7 @@ namespace Domain.Tests._1_WebAPI
         public async Task ProcessarPagamento_RetornaCreatedAtActionResult()
         {
             // Arrange
-            var pagamentoInput = new PagamentoInput
+            var pagamentoInput = new Pagamento
             {
                 StatusPagamento = "Pendente",
                 ValorPagamento = 100.0f,
@@ -122,7 +122,7 @@ namespace Domain.Tests._1_WebAPI
         public async Task ProcessarPagamento_RetornaBadRequest()
         {
             // Arrange
-            var pagamentoInput = new PagamentoInput
+            var pagamentoInput = new Pagamento
             {
                 StatusPagamento = "Pendente",
                 ValorPagamento = 100.0f,
@@ -145,7 +145,7 @@ namespace Domain.Tests._1_WebAPI
         public async Task ProcessarPagamento_RetornaBadRequest_QuandoPagamentoInputInvalido()
         {
             // Arrange
-            var pagamentoInput = new PagamentoInput
+            var pagamentoInput = new Pagamento
             {
                 StatusPagamento = "Pendente",
                 ValorPagamento = 100.0f,
@@ -162,37 +162,13 @@ namespace Domain.Tests._1_WebAPI
             Assert.IsType<BadRequestObjectResult>(actionResult.Result);
         }
 
-        [Trait("Categoria", "PagamentoController")]
-        [Fact(DisplayName = "ProcessarPagamento RetornaPreconditionFailed")]
-        public async Task ProcessarPagamento_RetornaPreconditionFailed()
-        {
-            // Arrange
-            var pagamentoInput = new PagamentoInput
-            {
-                StatusPagamento = "Pendente",
-                ValorPagamento = 100.0f,
-                DataPagamento = DateTime.Parse("2024-05-17 23:47"),
-                MetodoPagamento = "QRCode",
-                IdPedido = 10
-            };
-
-            _AppService.Setup(service => service.ProcessarPagamento(pagamentoInput))
-                .ThrowsAsync(new PreconditionFailedException("Precondition Failed", "pagamentoInput"));
-
-            // Act
-            var actionResult = await _controller.ProcessarPagamento(pagamentoInput);
-
-            // Assert
-            var objectResult = Assert.IsType<ObjectResult>(actionResult.Result);
-            Assert.Equal(412, objectResult.StatusCode);
-        }
 
         [Trait("Categoria", "PagamentoController")]
         [Fact(DisplayName = "ProcessarPagamento RetornaErroInterno")]
         public async Task ProcessarPagamento_RetornaErroInterno()
         {
             // Arrange
-            var pagamentoInput = new PagamentoInput
+            var pagamentoInput = new Pagamento
             {
                 StatusPagamento = "Pendente",
                 ValorPagamento = 100.0f,

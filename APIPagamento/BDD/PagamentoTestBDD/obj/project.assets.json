@@ -14281,11 +14281,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Franciele\\Desktop\\TechChallenge-Fase4-Pagamentos-1\\APIPagamento\\BDD\\PagamentoTestBDD\\PagamentoTestBDD.csproj",
+      "projectUniqueName": "C:\\Users\\Franciele\\Downloads\\TechChallenge-Fase4-Pagamentos (1)\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\BDD\\PagamentoTestBDD\\PagamentoTestBDD.csproj",
       "projectName": "PagamentoTestBDD",
-      "projectPath": "C:\\Users\\Franciele\\Desktop\\TechChallenge-Fase4-Pagamentos-1\\APIPagamento\\BDD\\PagamentoTestBDD\\PagamentoTestBDD.csproj",
+      "projectPath": "C:\\Users\\Franciele\\Downloads\\TechChallenge-Fase4-Pagamentos (1)\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\BDD\\PagamentoTestBDD\\PagamentoTestBDD.csproj",
       "packagesPath": "C:\\Users\\Franciele\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Franciele\\Desktop\\TechChallenge-Fase4-Pagamentos-1\\APIPagamento\\BDD\\PagamentoTestBDD\\obj\\",
+      "outputPath": "C:\\Users\\Franciele\\Downloads\\TechChallenge-Fase4-Pagamentos (1)\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\BDD\\PagamentoTestBDD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Franciele\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -14300,8 +14300,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Franciele\\Desktop\\TechChallenge-Fase4-Pagamentos-1\\APIPagamento\\APIPagamento\\APIPagamento.csproj": {
-              "projectPath": "C:\\Users\\Franciele\\Desktop\\TechChallenge-Fase4-Pagamentos-1\\APIPagamento\\APIPagamento\\APIPagamento.csproj"
+            "C:\\Users\\Franciele\\Downloads\\TechChallenge-Fase4-Pagamentos (1)\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\APIPagamento\\APIPagamento.csproj": {
+              "projectPath": "C:\\Users\\Franciele\\Downloads\\TechChallenge-Fase4-Pagamentos (1)\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\APIPagamento\\APIPagamento.csproj"
             }
           }
         }

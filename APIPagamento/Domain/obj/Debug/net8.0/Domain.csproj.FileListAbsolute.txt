@@ -22,3 +22,16 @@ C:\Users\fedz\Downloads\TechChallenge-Fase4-Pagamentos\APIPagamento\Domain\obj\D
 C:\Users\fedz\Downloads\TechChallenge-Fase4-Pagamentos\APIPagamento\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\fedz\Downloads\TechChallenge-Fase4-Pagamentos\APIPagamento\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\fedz\Downloads\TechChallenge-Fase4-Pagamentos\APIPagamento\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\Domain\obj\Debug\net8.0\ref\Domain.dll

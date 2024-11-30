@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = App.Test
-build_property.ProjectDir = C:\Users\Franciele\Desktop\TechChallenge-Fase4-Pagamentos-1\APIPagamento\App.Test\
+build_property.ProjectDir = C:\Users\Franciele\Downloads\TechChallenge-Fase4-Pagamentos (1)\TechChallenge-Fase4-Pagamentos\APIPagamento\App.Test\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -14,12 +14,20 @@ namespace Data.Context
         public MongoDBContext(IConfiguration configuration)
         {
             _configuration = configuration;
-            var connectionString = _configuration.GetConnectionString("ConnectionMongoDB");
-            var databaseName = _configuration.GetConnectionString("databaseName");
+
+            // Obtém os valores da seção "ConnectionMongoDB"
+            var mongoConfig = _configuration.GetSection("ConnectionMongoDB");
+            var server = mongoConfig["Server"];
+            var databaseName = mongoConfig["databaseName"];
+            var user = mongoConfig["User"];
+            var password = mongoConfig["Password"];
+
+            // Monta a ConnectionString dinamicamente
+            var connectionString = $"mongodb+srv://{user}:{password}@{server}/?retryWrites=true&w=majority";
+
             var client = new MongoClient(connectionString);
             _database = client.GetDatabase(databaseName);
         }
-
 
         public MongoDBContext(IMongoDatabase database)
         {
@@ -29,10 +37,9 @@ namespace Data.Context
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-
-
         }
 
+        // Expondo as coleções do MongoDB
         public IMongoCollection<Pagamento> Pagamento => _database.GetCollection<Pagamento>("pagamento");
         public IMongoCollection<PagamentoInput> PagamentoInput => _database.GetCollection<PagamentoInput>("pagamento");
     }

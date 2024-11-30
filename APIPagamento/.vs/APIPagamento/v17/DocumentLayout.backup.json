@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fedz\\Downloads\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\",
+  "WorkspaceRootPath": "C:\\Users\\fedz\\Source\\Repos\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76769E0C-2650-4B4F-8F82-F9350F72D61E}|BDD\\PagamentoTestBDD\\PagamentoTestBDD.csproj|c:\\users\\fedz\\downloads\\techchallenge-fase4-pagamentos\\apipagamento\\bdd\\pagamentotestbdd\\stepdefinitions\\gerenciarpagamentosstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76769E0C-2650-4B4F-8F82-F9350F72D61E}|BDD\\PagamentoTestBDD\\PagamentoTestBDD.csproj|solutionrelative:bdd\\pagamentotestbdd\\stepdefinitions\\gerenciarpagamentosstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B93681B7-53EC-47D7-B406-C585358EE637}|APIPagamento\\APIPagamento.csproj|c:\\users\\fedz\\source\\repos\\techchallenge-fase4-pagamentos\\apipagamento\\apipagamento\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B93681B7-53EC-47D7-B406-C585358EE637}|APIPagamento\\APIPagamento.csproj|solutionrelative:apipagamento\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76769E0C-2650-4B4F-8F82-F9350F72D61E}|BDD\\PagamentoTestBDD\\PagamentoTestBDD.csproj|c:\\users\\fedz\\downloads\\techchallenge-fase4-pagamentos\\apipagamento\\bdd\\pagamentotestbdd\\features\\pagamento.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76769E0C-2650-4B4F-8F82-F9350F72D61E}|BDD\\PagamentoTestBDD\\PagamentoTestBDD.csproj|solutionrelative:bdd\\pagamentotestbdd\\features\\pagamento.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B93681B7-53EC-47D7-B406-C585358EE637}|APIPagamento\\APIPagamento.csproj|c:\\users\\fedz\\source\\repos\\techchallenge-fase4-pagamentos\\apipagamento\\apipagamento\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B93681B7-53EC-47D7-B406-C585358EE637}|APIPagamento\\APIPagamento.csproj|solutionrelative:apipagamento\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76769E0C-2650-4B4F-8F82-F9350F72D61E}|BDD\\PagamentoTestBDD\\PagamentoTestBDD.csproj|c:\\users\\fedz\\downloads\\techchallenge-fase4-pagamentos\\apipagamento\\bdd\\pagamentotestbdd\\features\\pagamento.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{76769E0C-2650-4B4F-8F82-F9350F72D61E}|BDD\\PagamentoTestBDD\\PagamentoTestBDD.csproj|solutionrelative:bdd\\pagamentotestbdd\\features\\pagamento.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B93681B7-53EC-47D7-B406-C585358EE637}|APIPagamento\\APIPagamento.csproj|c:\\users\\fedz\\downloads\\techchallenge-fase4-pagamentos\\apipagamento\\apipagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B93681B7-53EC-47D7-B406-C585358EE637}|APIPagamento\\APIPagamento.csproj|solutionrelative:apipagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE671862-4AB7-4FE7-81EE-1CAD3017E5CB}|App.Test\\App.Test.csproj|c:\\users\\fedz\\source\\repos\\techchallenge-fase4-pagamentos\\apipagamento\\app.test\\1-webapi\\controllers\\pagamentocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE671862-4AB7-4FE7-81EE-1CAD3017E5CB}|App.Test\\App.Test.csproj|solutionrelative:app.test\\1-webapi\\controllers\\pagamentocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,47 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 33,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GerenciarPagamentosStepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\fedz\\Downloads\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\BDD\\PagamentoTestBDD\\StepDefinitions\\GerenciarPagamentosStepDefinitions.cs",
-              "RelativeDocumentMoniker": "BDD\\PagamentoTestBDD\\StepDefinitions\\GerenciarPagamentosStepDefinitions.cs",
-              "ToolTip": "C:\\Users\\fedz\\Downloads\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\BDD\\PagamentoTestBDD\\StepDefinitions\\GerenciarPagamentosStepDefinitions.cs",
-              "RelativeToolTip": "BDD\\PagamentoTestBDD\\StepDefinitions\\GerenciarPagamentosStepDefinitions.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T18:48:46.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pagamento.feature.cs",
-              "DocumentMoniker": "C:\\Users\\fedz\\Downloads\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\BDD\\PagamentoTestBDD\\Features\\Pagamento.feature.cs",
-              "RelativeDocumentMoniker": "BDD\\PagamentoTestBDD\\Features\\Pagamento.feature.cs",
-              "ToolTip": "C:\\Users\\fedz\\Downloads\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\BDD\\PagamentoTestBDD\\Features\\Pagamento.feature.cs",
-              "RelativeToolTip": "BDD\\PagamentoTestBDD\\Features\\Pagamento.feature.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T18:48:40.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pagamento.feature",
-              "DocumentMoniker": "C:\\Users\\fedz\\Downloads\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\BDD\\PagamentoTestBDD\\Features\\Pagamento.feature",
-              "RelativeDocumentMoniker": "BDD\\PagamentoTestBDD\\Features\\Pagamento.feature",
-              "ToolTip": "C:\\Users\\fedz\\Downloads\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\BDD\\PagamentoTestBDD\\Features\\Pagamento.feature",
-              "RelativeToolTip": "BDD\\PagamentoTestBDD\\Features\\Pagamento.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-28T18:48:35.55Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -196,16 +153,46 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fedz\\Downloads\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\APIPagamento\\Program.cs",
-              "RelativeDocumentMoniker": "APIPagamento\\Program.cs",
-              "ToolTip": "C:\\Users\\fedz\\Downloads\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\APIPagamento\\Program.cs",
-              "RelativeToolTip": "APIPagamento\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAArwCgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fedz\\Source\\Repos\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\APIPagamento\\appsettings.json",
+              "RelativeDocumentMoniker": "APIPagamento\\appsettings.json",
+              "ToolTip": "C:\\Users\\fedz\\Source\\Repos\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\APIPagamento\\appsettings.json",
+              "RelativeToolTip": "APIPagamento\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T19:30:28.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\fedz\\Source\\Repos\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\APIPagamento\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIPagamento\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\fedz\\Source\\Repos\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\APIPagamento\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIPagamento\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T19:30:23.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagamentoControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\fedz\\Source\\Repos\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\App.Test\\1-WebAPI\\Controllers\\PagamentoControllerTests.cs",
+              "RelativeDocumentMoniker": "App.Test\\1-WebAPI\\Controllers\\PagamentoControllerTests.cs",
+              "ToolTip": "C:\\Users\\fedz\\Source\\Repos\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\App.Test\\1-WebAPI\\Controllers\\PagamentoControllerTests.cs",
+              "RelativeToolTip": "App.Test\\1-WebAPI\\Controllers\\PagamentoControllerTests.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAArwKoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T18:47:50.938Z",
+              "WhenOpened": "2024-11-30T19:27:04.793Z",
               "EditorCaption": ""
             }
           ]

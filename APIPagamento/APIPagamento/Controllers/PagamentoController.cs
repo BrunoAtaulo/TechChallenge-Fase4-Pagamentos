@@ -1,14 +1,18 @@
 ﻿using Application.Interfaces;
 using Domain.Entities;
 using Domain.Entities.Output;
-using Domain.ValueObjects;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Swashbuckle.AspNetCore.Annotations;
+using System;
+using System.Threading.Tasks;
 
 namespace API.Controllers
 {
+    [Authorize]
     [ApiController]
-    [Route("[controller]")]
+    [Route("pagamentos/")]
 
     [Produces("application/json")]
     [SwaggerResponse(204, "Requisição concluída sem dados de retorno.", null)]
@@ -28,6 +32,7 @@ namespace API.Controllers
         {
             _pagamentoService = pagamentoService;
         }
+
 
         [HttpGet("{idPedido}/status")]
         [SwaggerOperation(
@@ -73,7 +78,7 @@ namespace API.Controllers
             Tags = new[] { "Pagamento" }
         )]
         [SwaggerResponse(201, "Pagamento processado com sucesso!", typeof(PagamentoOutput))]
-        public async Task<ActionResult<Pagamento>> ProcessarPagamento([FromBody] PagamentoInput pagamentoInput)
+        public async Task<ActionResult<Pagamento>> ProcessarPagamento([FromBody] Pagamento pagamentoInput)
         {
             try
             {
@@ -85,7 +90,7 @@ namespace API.Controllers
 
                 return CreatedAtAction("ProcessarPagamento", new { id = novoPagamento.IdPagamento }, novoPagamento);
             }
-            catch (PreconditionFailedException ex)
+            catch (Domain.Base.PreconditionFailedException ex)
             {
 
                 return StatusCode(412, ex.Message);
@@ -122,6 +127,7 @@ namespace API.Controllers
             }
             catch (Exception ex)
             {
+
                 return StatusCode(500, $"Erro ao processar webhook: {ex.Message}");
             }
         }

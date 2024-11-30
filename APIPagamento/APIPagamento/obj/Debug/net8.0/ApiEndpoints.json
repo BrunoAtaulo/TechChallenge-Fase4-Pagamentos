@@ -2,14 +2,14 @@
   {
     "ContainingType": "API.Controllers.PagamentoController",
     "Method": "ProcessarPagamento",
-    "RelativePath": "pagamento",
+    "RelativePath": "pagamentos",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "pagamentoInput",
-        "Type": "Domain.Entities.PagamentoInput",
+        "Type": "Domain.Entities.Pagamento",
         "IsRequired": true
       }
     ],
@@ -61,7 +61,7 @@
   {
     "ContainingType": "API.Controllers.PagamentoController",
     "Method": "ObterQRCodePagamento",
-    "RelativePath": "pagamento/{idPedido}/qrcode",
+    "RelativePath": "pagamentos/{idPedido}/qrcode",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -118,7 +118,7 @@
   {
     "ContainingType": "API.Controllers.PagamentoController",
     "Method": "GetStatusPagamentoPedido",
-    "RelativePath": "pagamento/{idPedido}/status",
+    "RelativePath": "pagamentos/{idPedido}/status",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -177,7 +177,7 @@
   {
     "ContainingType": "API.Controllers.PagamentoController",
     "Method": "ReceberNotificacaoPagamento",
-    "RelativePath": "pagamento/webhook",
+    "RelativePath": "pagamentos/webhook",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
