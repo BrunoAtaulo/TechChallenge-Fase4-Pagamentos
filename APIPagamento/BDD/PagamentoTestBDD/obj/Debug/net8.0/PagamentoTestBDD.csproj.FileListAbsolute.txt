@@ -1172,3 +1172,4 @@ C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\BDD\Pagam
 C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\BDD\PagamentoTestBDD\obj\Debug\net8.0\PagamentoTestBDD.pdb
 C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\BDD\PagamentoTestBDD\obj\Debug\net8.0\PagamentoTestBDD.genruntimeconfig.cache
 C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\BDD\PagamentoTestBDD\obj\Debug\net8.0\ref\PagamentoTestBDD.dll
+c:\Users\Franciele\Desktop\TechChallenge-Fase4-Pagamentos\APIPagamento\BDD\PagamentoTestBDD\obj\Debug\net8.0\PagamentoTestBDD.sourcelink.json

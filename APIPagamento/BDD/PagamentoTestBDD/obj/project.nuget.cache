@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SDahow5AX/I=",
+  "dgSpecHash": "GHIcwwOOv2I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Franciele\\Downloads\\TechChallenge-Fase4-Pagamentos (1)\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\BDD\\PagamentoTestBDD\\PagamentoTestBDD.csproj",
+  "projectFilePath": "C:\\Users\\Franciele\\Desktop\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\BDD\\PagamentoTestBDD\\PagamentoTestBDD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Franciele\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Franciele\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

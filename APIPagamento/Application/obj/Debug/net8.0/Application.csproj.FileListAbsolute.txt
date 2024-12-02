@@ -44,3 +44,4 @@ C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\Applicati
 C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\Application\obj\Debug\net8.0\refint\Application.dll
 C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\Application\obj\Debug\net8.0\Application.pdb
 C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\Application\obj\Debug\net8.0\ref\Application.dll
+c:\Users\Franciele\Desktop\TechChallenge-Fase4-Pagamentos\APIPagamento\Application\obj\Debug\net8.0\Application.sourcelink.json

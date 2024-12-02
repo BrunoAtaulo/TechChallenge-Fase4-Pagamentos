@@ -2075,3 +2075,4 @@ C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\App.Test\
 C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\App.Test\obj\Debug\net8.0\App.Test.csproj.Up2Date
 C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\App.Test\obj\Debug\net8.0\App.Test.genruntimeconfig.cache
 C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\App.Test\obj\Debug\net8.0\ref\App.Test.dll
+c:\Users\Franciele\Desktop\TechChallenge-Fase4-Pagamentos\APIPagamento\App.Test\obj\Debug\net8.0\App.Test.sourcelink.json

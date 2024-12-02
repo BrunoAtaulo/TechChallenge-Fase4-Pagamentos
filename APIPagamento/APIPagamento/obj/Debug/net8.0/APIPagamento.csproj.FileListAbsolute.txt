@@ -920,3 +920,4 @@ C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\APIPagame
 C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\APIPagamento\obj\Debug\net8.0\APIPagamento.pdb
 C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\APIPagamento\obj\Debug\net8.0\APIPagamento.genruntimeconfig.cache
 C:\Users\fedz\Source\Repos\TechChallenge-Fase4-Pagamentos\APIPagamento\APIPagamento\obj\Debug\net8.0\ref\APIPagamento.dll
+c:\Users\Franciele\Desktop\TechChallenge-Fase4-Pagamentos\APIPagamento\APIPagamento\obj\Debug\net8.0\APIPagamento.sourcelink.json

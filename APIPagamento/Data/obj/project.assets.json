@@ -5394,11 +5394,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Franciele\\Downloads\\TechChallenge-Fase4-Pagamentos (1)\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\Franciele\\Desktop\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Users\\Franciele\\Downloads\\TechChallenge-Fase4-Pagamentos (1)\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\Data\\Data.csproj",
+      "projectPath": "C:\\Users\\Franciele\\Desktop\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\Franciele\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Franciele\\Downloads\\TechChallenge-Fase4-Pagamentos (1)\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\Data\\obj\\",
+      "outputPath": "C:\\Users\\Franciele\\Desktop\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Franciele\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5413,8 +5413,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Franciele\\Downloads\\TechChallenge-Fase4-Pagamentos (1)\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Franciele\\Downloads\\TechChallenge-Fase4-Pagamentos (1)\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\Domain\\Domain.csproj"
+            "C:\\Users\\Franciele\\Desktop\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Franciele\\Desktop\\TechChallenge-Fase4-Pagamentos\\APIPagamento\\Domain\\Domain.csproj"
             }
           }
         }

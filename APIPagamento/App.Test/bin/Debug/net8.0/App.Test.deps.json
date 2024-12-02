@@ -3679,10 +3679,7 @@
           "Swashbuckle.AspNetCore.SwaggerGen": "6.5.0"
         },
         "runtime": {
-          "APIPagamento.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "APIPagamento.dll": {}
         },
         "compile": {
           "APIPagamento.dll": {}
@@ -3694,10 +3691,7 @@
           "Microsoft.AspNetCore.JsonPatch": "8.0.4"
         },
         "runtime": {
-          "Application.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Application.dll": {}
         },
         "compile": {
           "Application.dll": {}
@@ -3712,10 +3706,7 @@
           "RabbitMQ.Client": "6.8.1"
         },
         "runtime": {
-          "Data.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Data.dll": {}
         },
         "compile": {
           "Data.dll": {}
@@ -3729,10 +3720,7 @@
           "Swashbuckle.AspNetCore.SwaggerGen": "6.5.0"
         },
         "runtime": {
-          "Domain.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Domain.dll": {}
         },
         "compile": {
           "Domain.dll": {}
