@@ -12,7 +12,7 @@
 ## Nome Discord:
 Franciele RM 355456</br>
 Bruno - RM355476</br>
-Cesar P Moroni RM355921</br>
+Cesar P Moroni RM355921</br>c
 
 
 
@@ -27,4 +27,4 @@ Cesar P Moroni RM355921</br>
 
 ## Sonar
 
-![image3](assets/sonar.jpg)
+![image3](assets/cobertura.png)
