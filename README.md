@@ -17,7 +17,7 @@ Cesar P Moroni RM355921</br>
 
 
 ## Banco de Dados NOSQL -  MONGO DB
-![image1](assets/mongo nosql.png)
+![image1](assets/image1.png)
 
 
 ## Teste unitario
