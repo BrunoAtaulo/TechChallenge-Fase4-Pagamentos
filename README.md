@@ -12,7 +12,7 @@
 ## Nome Discord:
 Franciele RM 355456</br>
 Bruno - RM355476</br>
-Cesar P Moroni RM355921</br>c
+Cesar P Moroni RM355921</br>
 
 
 Este repositório é dedicado ao microsserviço de pagamentos. Neste foi utilizado o mongoDB como banco de dados
