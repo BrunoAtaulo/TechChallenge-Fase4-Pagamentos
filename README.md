@@ -42,3 +42,10 @@ Utilizamos a ferramenta xUnit para realizar os testes unitários
 Utilizamos a ferramenta SonarCloud para análise de código e cobertura de testes. Para este microsserviço, atingimos acima de 80% de cobertura, conforme abaixo:
 
 ![image3](assets/cobertura.png)
+
+
+#BDD
+
+Utilizamos BDD para buscar o status do pagamento pelo idPedido:
+
+![image4](assets/bdd.png)
