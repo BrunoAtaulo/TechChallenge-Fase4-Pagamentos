@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIPagamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2059da3a37abcb3bfb33eb432d40dc5bec70973")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+210523568c286caab4ec0efdf3b851b65cd4d58a")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIPagamento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIPagamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
